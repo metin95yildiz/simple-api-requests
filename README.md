@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is test for simple API GET, POST, PUT and DELETE requests.
 
+## Demo
+https://simple-api-app.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
